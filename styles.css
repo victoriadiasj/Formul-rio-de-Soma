@@ -1,0 +1,21 @@
+#form{
+  display: grid;
+  width: 30%;
+  margin: 0 auto;
+  padding: 5%;
+
+  background: skyblue;
+}
+
+.input{
+  padding: 1%;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn{
+  padding: 1%;
+  border-radius: 10px;
+  border: none;
+  margin: 10px;
+}
